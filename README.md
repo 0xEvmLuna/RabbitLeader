@@ -24,7 +24,7 @@ npm install --save-dev erc721a
 
 &nbsp;
 
-# **How to deploy RabbitLeader NFT**
+# **Usage**
 
 ## **Compile RabbitLeader**
 ```
